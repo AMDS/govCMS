@@ -203,7 +203,7 @@ libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases
 libraries[chosen][directory_name] = "chosen"
 libraries[chosen][type] = "library"
 
-libraries[php-encryption-autoload][download][type] = "file"
+libraries[php-encryption-autoload][download][type] = "get"
 libraries[php-encryption-autoload][download][url] = "https://gist.github.com/paragonie-scott/949daee819bb7f19c50e5e103170b400/archive/4d72ab0049b1dc37ce68e4cecaf9b280953a1d0a.zip"
 libraries[php-encryption-autoload][directory_name] = "php-encryption"
 libraries[php-encryption-autoload][file_name] = "autoload.php"
